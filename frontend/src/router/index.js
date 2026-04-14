@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import BooksView from './views/BooksView.vue'
-import BorrowsView from './views/BorrowsView.vue'
-import RecordsView from './views/RecordsView.vue'
+import BooksView from '../views/BooksView.vue'
+import BorrowsView from '../views/BorrowsView.vue'
+import RecordsView from '../views/RecordsView.vue'
 
 const routes = [
   {
