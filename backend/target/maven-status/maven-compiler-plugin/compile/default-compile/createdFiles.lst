@@ -1,0 +1,12 @@
+com\library\util\DateUtil.class
+com\library\util\IdGenerator.class
+com\library\service\BookService.class
+com\library\entity\BorrowRecord.class
+com\library\LibraryApplication.class
+com\library\common\Result.class
+com\library\controller\BookController.class
+com\library\entity\Book.class
+com\library\service\BorrowService.class
+com\library\util\JsonFileUtil.class
+com\library\config\CorsConfig.class
+com\library\controller\BorrowController.class
