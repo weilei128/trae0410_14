@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Java编程思想",
+    "author": "Bruce Eckel",
+    "isbn": "978-7-111-21382-6",
+    "category": "编程",
+    "totalStock": 5,
+    "availableStock": 5,
+    "createTime": "2024-01-01 10:00:00",
+    "updateTime": "2024-01-01 10:00:00"
+  },
+  {
+    "id": 2,
+    "name": "深入理解计算机系统",
+    "author": "Randal E. Bryant",
+    "isbn": "978-7-111-54493-7",
+    "category": "计算机",
+    "totalStock": 3,
+    "availableStock": 3,
+    "createTime": "2024-01-01 10:00:00",
+    "updateTime": "2024-01-01 10:00:00"
+  },
+  {
+    "id": 3,
+    "name": "算法导论",
+    "author": "Thomas H. Cormen",
+    "isbn": "978-7-111-40701-0",
+    "category": "算法",
+    "totalStock": 4,
+    "availableStock": 4,
+    "createTime": "2024-01-01 10:00:00",
+    "updateTime": "2024-01-01 10:00:00"
+  },
+  {
+    "id": 4,
+    "name": "设计模式",
+    "author": "Erich Gamma",
+    "isbn": "978-7-111-21112-9",
+    "category": "编程",
+    "totalStock": 3,
+    "availableStock": 3,
+    "createTime": "2024-01-01 10:00:00",
+    "updateTime": "2024-01-01 10:00:00"
+  },
+  {
+    "id": 5,
+    "name": "Spring实战",
+    "author": "Craig Walls",
+    "isbn": "978-7-115-46453-7",
+    "category": "框架",
+    "totalStock": 6,
+    "availableStock": 6,
+    "createTime": "2024-01-01 10:00:00",
+    "updateTime": "2024-01-01 10:00:00"
+  },
+  {
+    "id": 6,
+    "name": "Vue.js设计与实现",
+    "author": "霍春阳",
+    "isbn": "978-7-115-58399-6",
+    "category": "前端",
+    "totalStock": 4,
+    "availableStock": 4,
+    "createTime": "2024-01-01 10:00:00",
+    "updateTime": "2024-01-01 10:00:00"
+  }
+]
